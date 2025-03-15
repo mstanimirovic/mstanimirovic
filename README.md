@@ -13,6 +13,7 @@ I'm currently a student with a keen interest in software development and algorit
 ## GitHub Stats
 
 ![](https://img.shields.io/badge/Public%20Repos-19-brightgreen)  ![](https://img.shields.io/badge/Followers-4-blue)  ![](https://img.shields.io/badge/Following-5-red)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstanimirovic&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
