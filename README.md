@@ -1,14 +1,21 @@
-# Hi 👋, I'm Mladen
-### Software Engineering student from Serbia
+## Hi there! 👋
 
-- 🏢 I'm not currently working on any big project
-- 🌱 Learning all about **Open Source**
-- 📫 How to reach me **mstanimirovic@proton.me**
+I'm Mladen, a passionate 19-year-old student from Novi Sad, Serbia. I love exploring the world of programming and building projects that make a difference. Let's connect and collaborate!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1ad3n&show_icons=true&locale=en" alt="m1ad3n" /></p>
+I'm currently a student with a keen interest in software development and algorithm design. I enjoy working on various programming projects and continually strive to improve my skills. My journey in coding began a few years ago, and it has been an exciting adventure ever since!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ad3n&" alt="m1ad3n" /></p>
+## Skills & Technologies
 
+py,c,cpp,docker,linux,git,github,java,rust
+
+## GitHub Stats
+
+![](https://img.shields.io/badge/Public%20Repos-19-brightgreen)  ![](https://img.shields.io/badge/Followers-4-blue)  ![](https://img.shields.io/badge/Following-5-red)
+
+## Recent Activity
+
+* Pushed updates to [Data Structures and Algorithms](https://github.com/mstanimirovic/dsa)
+* Created a new repository for viewing info about battery in linux.
+* Updated multiple repositories with new features and enhancements.
