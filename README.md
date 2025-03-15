@@ -8,7 +8,7 @@ I'm currently a student with a keen interest in software development and algorit
 
 ## Skills & Technologies
 
-py,c,cpp,docker,linux,git,github,java,rust
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,docker,linux,git,github,java,rust&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 
