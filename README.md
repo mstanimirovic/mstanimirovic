@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Mladen, a passionate 19-year-old student from Novi Sad, Serbia. I love exploring the world of programming and building projects that make a difference. Let's connect and collaborate!
+I'm Mladen, a passionate 20-year-old student from Novi Sad, Serbia. I love exploring the world of programming and building projects that make a difference. Let's connect and collaborate!
 
 ## About Me
 
